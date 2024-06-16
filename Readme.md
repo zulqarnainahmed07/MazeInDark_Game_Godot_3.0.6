@@ -31,7 +31,7 @@ Flexible and Lightweight: Small footprint and optimized performance for a variet
 - **Objective**: Collect all five glowing orbs scattered throughout the maze. Each orb emits a sonar sound to help you find them.
 - **Survival**: The entity hunts you continuously. Listen carefully to its approach and evade it to survive.
 - **Winning**: Collect all five orbs to complete the game.
-- "Game play Video link* [Click here to watch game Play Video](https://www.canva.com/design/DAGIVg2PEqo/vK6fchO-45kMh8vq2krIDg/watch?utm_content=DAGIVg2PEqo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- **Game play Video link**: [Click here to watch GamePlay Video](https://www.canva.com/design/DAGIVg2PEqo/vK6fchO-45kMh8vq2krIDg/watch?utm_content=DAGIVg2PEqo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ## Controls
 - **W**: Move Forward
 - **S**: Move Backward
