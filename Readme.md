@@ -11,8 +11,10 @@ Previous horror games such as "Amnesia: The Dark Descent" and "Outlast" have set
 - [Godot Engine Overiew](#godot-engine-overview)
 - [Controls](#controls)
 - [Installation](#installation)
+- [Deployed Game Link](Deployed_game)
 - [Credits](#credits)
 - [Contact](#contact)
+
 
 ## Overview
 Mazeindark is developed using Godot 3.0.6. The game provides an immersive horror experience with its dark, narrow pathways and ambient sound design. The entity hunting you knows your location at all times, adding to the tension and challenge.
@@ -29,7 +31,7 @@ Flexible and Lightweight: Small footprint and optimized performance for a variet
 - **Objective**: Collect all five glowing orbs scattered throughout the maze. Each orb emits a sonar sound to help you find them.
 - **Survival**: The entity hunts you continuously. Listen carefully to its approach and evade it to survive.
 - **Winning**: Collect all five orbs to complete the game.
-
+- "Game play Video link* [Click here to watch game Play Video](https://www.canva.com/design/DAGIVg2PEqo/vK6fchO-45kMh8vq2krIDg/watch?utm_content=DAGIVg2PEqo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 ## Controls
 - **W**: Move Forward
 - **S**: Move Backward
@@ -37,6 +39,10 @@ Flexible and Lightweight: Small footprint and optimized performance for a variet
 - **D**: Move Right
 - **Mouse**: Look Around
 - **ESC**: Pause Game
+
+## Deployed game
+You may download the game by the link below which will works on your Computer as well
+[Deoplyed game link](https://pern-my.sharepoint.com/:f:/g/personal/bse23s088_stu_smiu_edu_pk/Egdig9R3iMNFh43_Uqdt0PwBCZpJIfOMNd49vJRzOQDX_g?e=HIpPZV)
 
 ## Credits
 **Developed by:**
