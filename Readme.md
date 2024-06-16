@@ -42,7 +42,8 @@ Flexible and Lightweight: Small footprint and optimized performance for a variet
 
 ## Deployed game
 You may download the game by the link below which will works on your Computer as well
-[Deoplyed game link](https://pern-my.sharepoint.com/:f:/g/personal/bse23s088_stu_smiu_edu_pk/Egdig9R3iMNFh43_Uqdt0PwBCZpJIfOMNd49vJRzOQDX_g?e=HIpPZV)
+
+- [Deoplyed game link](https://pern-my.sharepoint.com/:f:/g/personal/bse23s088_stu_smiu_edu_pk/Egdig9R3iMNFh43_Uqdt0PwBCZpJIfOMNd49vJRzOQDX_g?e=HIpPZV)
 
 ## Credits
 **Developed by:**
